@@ -37,6 +37,7 @@ dependencies:
   transparent_image: ^2.0.1
   flutter_riverpod: ^2.5.1
 
+  riverpod: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
